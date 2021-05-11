@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# SSHH Making Art with Machine Learning: Artist and AI co-creation
+Taught by [Lia Coleman](https://twitter.com/Lialialiacole).
 
-You can use the [editor on GitHub](https://github.com/Lia-C/SSHH-ML-Art-Course/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Week 1: Intro to ML Art & RunwayML
+### Class Materials
+- [Week 1 Slides](https://docs.google.com/presentation/d/131HRgcWrVc-YWkdnYr0pRB4qvmejCbZ3JGk5mQqBmcA/edit?usp=sharing)
+- [Week 1 Recording]
+ 
+### Homework
+1. Explore the pre-trained models in Runway. [Playlist of demos on YouTube](https://www.youtube.com/playlist?list=PLWuCzxqIpJs8OOUUePUNVCHrCGDoKTtyn). Find a model to explore. In the class Slack tell us the following:
+- What model you used
+- What the inputs and outputs were
+- What questions you have about the model
+- Show us what you made.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Do this for at least three models.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lia-C/SSHH-ML-Art-Course/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2. Watch [this video on Colab.](https://www.youtube.com/watch?v=b7s-NKmOEpQ&feature=youtu.be&ab_channel=ArtificialImages)
