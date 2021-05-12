@@ -4,9 +4,9 @@ Taught by [Lia Coleman](https://twitter.com/Lialialiacole).
 # Week 1: Intro to ML Art & RunwayML
 ### Class Materials
 - [Week 1 Slides](https://docs.google.com/presentation/d/131HRgcWrVc-YWkdnYr0pRB4qvmejCbZ3JGk5mQqBmcA/edit?usp=sharing)
-- [Week 1 Recording]
  
 ### Homework
+0. [Play AI Dungeon!!](https://play.aidungeon.io/)
 1. Explore the pre-trained models in Runway. [Playlist of demos on YouTube](https://www.youtube.com/playlist?list=PLWuCzxqIpJs8OOUUePUNVCHrCGDoKTtyn). Find a model to explore. In the class Slack tell us the following:
 - What model you used
 - What the inputs and outputs were
