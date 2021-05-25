@@ -16,3 +16,14 @@ Taught by [Lia Coleman](https://twitter.com/Lialialiacole).
 Do this for at least three models.
 
 2. Watch [this video on Colab.](https://www.youtube.com/watch?v=b7s-NKmOEpQ&feature=youtu.be&ab_channel=ArtificialImages)
+
+# Week 2: Intro to Google Colab
+### Class Materials
+- [Week 2 Slides](https://docs.google.com/presentation/d/1ulXdHMcZgo3HSE9pd18xNo-PDbhn3a4sHc1OQHXIGo4/edit?usp=sharing)
+ 
+### Homework
+1. If you want to train your own model, start assembling a dataset! You'll need 1000+ images. Eventually we will resize/crop them all to 1024 x 1024. So it's best if your source images resolution is higher than 1024px.
+
+# Week 3: Datasets & Scraping
+### Class Materials
+- [Week 3 Slides](https://docs.google.com/presentation/d/1ulXdHMcZgo3HSE9pd18xNo-PDbhn3a4sHc1OQHXIGo4/edit?usp=sharing)
