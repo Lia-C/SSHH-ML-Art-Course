@@ -20,6 +20,7 @@ Do this for at least three models.
 # Week 2: Intro to Google Colab
 ### Class Materials
 - [Week 2 Slides](https://docs.google.com/presentation/d/1ulXdHMcZgo3HSE9pd18xNo-PDbhn3a4sHc1OQHXIGo4/edit?usp=sharing)
+- [Week 2 Recording](https://youtu.be/F8QR_mAE4Gw)
  
 ### Homework
 1. If you want to train your own model, start assembling a dataset! You'll need 1000+ images. Eventually we will resize/crop them all to 1024 x 1024. So it's best if your source images resolution is higher than 1024px.
@@ -27,6 +28,7 @@ Do this for at least three models.
 # Week 3: Datasets & Scraping
 ### Class Materials
 - [Week 3 Slides](https://docs.google.com/presentation/d/1UDx1JBOhqpK0wHrJor8QaoAujh2pTWGoTAxoFcrnPSY/edit?usp=sharing)
+- [Week 3 Recording](https://youtu.be/nPi4tuW-YNs)
 
 ### Homework
 1. Keep dataset collecting! You'll need 1000+ images. Eventually we will resize/crop them all to 1024 x 1024. So it's best if your source images resolution is higher than 1024px.
