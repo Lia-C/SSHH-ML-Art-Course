@@ -1,6 +1,8 @@
 # SSHH Making Art with Machine Learning: Artist and AI co-creation
 Taught by [Lia Coleman](https://twitter.com/Lialialiacole).
 
+Our class [Google Drive](https://drive.google.com/drive/u/0/folders/1hyI7jo3ETHM4oP7R6akRAOskM0n87Kg5), which contains all the slides below.
+
 # Week 1: Intro to ML Art & RunwayML
 ### Class Materials
 - [Week 1 Slides](https://docs.google.com/presentation/d/131HRgcWrVc-YWkdnYr0pRB4qvmejCbZ3JGk5mQqBmcA/edit?usp=sharing)
