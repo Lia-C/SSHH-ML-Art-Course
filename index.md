@@ -34,3 +34,19 @@ Do this for at least three models.
 
 ### Homework
 1. Keep dataset collecting! You'll need 1000+ images. Eventually we will resize/crop them all to 1024 x 1024. So it's best if your source images resolution is higher than 1024px.
+
+# Week 4: Training in RunwayML, IG Scraping
+### Class Materials
+- [Week 4 Slides](https://docs.google.com/presentation/d/1MIvLQq0Z1VgN3GeFVu96sNCtCADI_k3cah0FNKZCo0o/edit?usp=sharing)
+- [Week 4 Recording](https://youtu.be/yy9OCqZHYJY)
+
+### Homework
+1. Train a StyleGAN model in RunwayML.
+
+# Week 5: Dataset-tools, Training in Colab
+### Class Materials
+- [Week 5 Slides](https://docs.google.com/presentation/d/15wIE0Rui4fLCfG-gL8lG_rEX2J-IPvRk9nAi8ieguF0/edit?usp=sharing)
+- [Week 5 Recording](https://youtu.be/H_z4TU_5tp4)
+
+### Homework
+1. Train a StyleGAN model in Google Colab.
