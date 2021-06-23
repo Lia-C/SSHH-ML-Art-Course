@@ -50,3 +50,9 @@ Do this for at least three models.
 
 ### Homework
 1. Train a StyleGAN model in Google Colab.
+
+
+# Week 6: Inference in Colab
+### Class Materials
+- [Week 6 Slides](https://docs.google.com/presentation/d/1naSwKj07TbTwS4PFTRMWTdwwlfvF4WU1iYpzuNggTGg/edit?usp=sharing)
+- [Week 6 Recording](https://youtu.be/WuI9dbf7gFo)
